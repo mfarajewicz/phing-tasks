@@ -1,0 +1,4 @@
+{
+    "name": "mfarajewicz/phing-tasks",
+    "description": "Extension for Phing used for executing LESS compilation created be Ryan Chouinard. This is only fork of his work. See original repo: https://github.com/rchouinard/phing-tasks"
+}
